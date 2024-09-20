@@ -1,1 +1,1 @@
-*** account test admin: admin1 admin1
+account test admin: admin1 admin1
